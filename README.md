@@ -13,7 +13,7 @@ The distance sensor it set to detect movement at any distance lower than 1 meter
 
 The RGB LED flashes from red to green to blue
 
-#2 Imports
+## Imports
 
 This is done using gpiozero, pianalog, multiprocessing, pyttsx3, time, math 
 *pyttsx3 requires espeak to be installed if it isn't already
