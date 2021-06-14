@@ -9,10 +9,13 @@ The distance sensor is a redundancy to detect something coming through the door.
 When it detects something, it will briefly run the piezo buzzer and RGB LED.
 It will also scream using text to speech if you connect a speaker to its headphone jack. 
 
-This is done using gpiozero, pianalog, multiprocessing, pyttsx3, time, math 
-*pyttsx3 requires espeak to be installed if it isn't already
-
 The distance sensor it set to detect movement at any distance lower than 1 meter
 
 The RGB LED flashes from red to green to blue
+
+# Imports
+
+This is done using gpiozero, pianalog, multiprocessing, pyttsx3, time, math 
+*pyttsx3 requires espeak to be installed if it isn't already
+
 
