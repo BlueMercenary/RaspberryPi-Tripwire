@@ -7,4 +7,4 @@ Positive rail are gpio negative rail is ground
 VCC (brown): 5V
 3 (Resistor 1 and resistor 2): 23 and 18 respectively
 4 (Piezo Black wire): 25 and 24 the order does not matter
-5 (resistor 1 red 2 green and 3 blue for rgb led): 13, 26, 19 respectively
+5 (resistor 1 red 2 green and 3 blue for rgb led): 13, 26, 19 respectively 
